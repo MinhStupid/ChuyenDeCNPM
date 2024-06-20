@@ -2626,3 +2626,17 @@
 [2024-06-19 08:06:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
 [2024-06-19 08:07:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
 [2024-06-19 08:07:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 09:23:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 09:23:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 09:44:49] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 09:44:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 09:57:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 09:57:48] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 13:36:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 13:36:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 17:43:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-19 17:44:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-20 00:29:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-20 00:29:13] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-20 01:29:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
+[2024-06-20 01:29:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/webbanhang
